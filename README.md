@@ -1,4 +1,4 @@
-
+![logo](https://github.com/vivek-0405/vivek-0405/blob/main/YouTube%20Banner%20-%20ARTIFICIAL%20INTELLIGENCE%20AND%20MACHINE%20LEARNING%20%20VIVEK%20KUMAR.png)
 <h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
